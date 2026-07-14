@@ -4,8 +4,7 @@ Real-time recognition of anxious/restless behavior patterns in students during s
 
 > Built for the Pattern Recognition course, Teknik Komputer, Fakultas Ilmu Komputer, Universitas Brawijaya.
 
-![Status: Tenang/Fokus](assets/demo_calm.png) ![Status: Indikasi Gelisah/Cemas](assets/demo_anxious.png)
-*(add screenshots/GIF here — see "Adding Media" below)*
+![Status: Tenang/Fokus](assets/Tenang.png) ![Status: Indikasi Gelisah/Cemas](assets/Gelisah.png)
 
 ## What it does
 
